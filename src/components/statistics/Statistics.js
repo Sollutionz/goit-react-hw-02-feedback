@@ -9,9 +9,6 @@ export const Statistics = ({
   return (
     <div>
       <div>
-        <h1>Please leave feedback</h1>
-      </div>
-      <div>
         <h2>Statistics</h2>
         <ul>
           <li>Good: {good}</li>
