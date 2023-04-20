@@ -3,7 +3,7 @@ import { Statistics } from "./statistics/Statistics";
 import { FeedbackOptions } from "./feedbackOptions/FeedbackOptions";
 import { Section } from "./section/Section";
 import { Notification } from "./notification/Notification";
-
+import '../index.css';
 export class App extends React.Component {
   state = {
     good: 0,
